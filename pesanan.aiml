@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="2.0" encoding="ISO-8859-1">
+    <category>
+        <pattern>SAYA INGIN PESAN *</pattern>
+        <template>
+            <think><set name="paket"><star/></set></think>
+            <condition name="paket">
+                <li value="Paket Ayam Spicy Jatinangor Medium">Terima kasih kak, Paket Ayam Spicy Jatinangor Medium Rp 19,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li value="Paket Ayam Spicy Jatinangor Large">Terima kasih kak, Paket Ayam Spicy Jatinangor Large Rp 23,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li value="Paket Ayam Spicy Jatinangor Special Medium">Terima kasih kak, Paket Ayam Spicy Jatinangor Special Medium Rp 22,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li value="Paket Java Jatinangor 1">Terima kasih kak, Paket Java Jatinangor 1 Rp 37,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li value="Paket Chicken Strips + Scramble Egg">Terima kasih kak, Paket Chicken Strips + Scramble Egg Rp 27,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li value="Paket Java Jatinangor 2">Terima kasih kak, Paket Java Jatinangor 2 Rp 28,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li>Mohon maaf, paket yang Anda pesan tidak tersedia.</li>
+            </condition>
+        </template>
+    </category>
+
+<!-- Kategori untuk memesan makanan satuan -->
+    <category>
+        <pattern>SAYA INGIN PESAN MAKANAN *</pattern>
+        <template>
+            <think><set name="makanan"><star/></set></think>
+            <condition name="makanan">
+                <li value="ayam spicy jatinangor medium">Terima kasih kak, Ayam Spicy Jatinangor Medium Rp 15,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li value="Ayam Spicy Jatinangor Large">Terima kasih kak, Ayam Spicy Jatinangor Large Rp 19,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li value="Chicken Strips Spicy">Terima kasih kak, Chicken Strips Spicy Rp 19,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li value="Great Burger Jatinangor">Terima kasih kak, Great Burger Jatinangor Rp 26,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li value="Spicy Chicken Burger">Terima kasih kak, Spicy Chicken Burger Rp 23,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li value="Hot BBQ / Cheese Sauce">Terima kasih kak, Hot BBQ / Cheese Sauce Rp 5,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li value="Scramble Egg">Terima kasih kak, Scramble Egg Rp 7,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li value="Nasi">Terima kasih kak, Nasi Rp 7,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li value="French Fries Cajun">Terima kasih kak, French Fries Cajun Rp 14,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li value="Kailan Spicy Crispy">Terima kasih kak, Kailan Spicy Crispy Rp 15,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li value="Tofu Chicken Spicy Tenders">Terima kasih kak, Tofu Chicken Spicy Tenders Rp 16,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li value="Fries Chicken Spicy Tenders">Terima kasih kak, Fries Chicken Spicy Tenders Rp 18,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li>Mohon maaf, makanan yang Anda pesan tidak tersedia.</li>
+            </condition>
+        </template>
+    </category>
+    
+    <!-- Kategori untuk memesan minuman satuan -->
+    <category>
+        <pattern>SAYA INGIN PESAN MINUMAN *</pattern>
+        <template>
+            <think><set name="minuman"><star/></set></think>
+            <condition name="minuman">
+                <li value="Es Kopi J-House Gula Aren">Terima kasih kak, Es Kopi J-House Gula Aren Rp 18,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li value="Es Kopi J-House">Terima kasih kak, Es Kopi J-House Rp 18,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li value="Es Kopi Suklat">Terima kasih kak, Es Kopi Suklat Rp 20,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li value="Es Kopi Karlina Latte">Terima kasih kak, Es Kopi Karlina Latte Rp 20,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li value="J-House Creamy Mouthfeel">Terima kasih kak, J-House Creamy Mouthfeel Rp 20,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li value="Cappucino Hot/Ice">Terima kasih kak, Cappucino Hot/Ice Rp 20,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li value="Vietnam Drip">Terima kasih kak, Vietnam Drip Rp 16,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li value="Americano Hot/Ice">Terima kasih kak, Americano Hot/Ice Rp 15,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li value="Sugus Milk Cream">Terima kasih kak, Sugus Milk Cream Rp 15,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li value="Taro Latte">Terima kasih kak, Taro Latte Rp 16,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li value="Chocolate Daily">Terima kasih kak, Chocolate Daily Rp 16,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li value="Red Velvet">Terima kasih kak, Red Velvet Rp 16,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li value="Matcha Latte">Terima kasih kak, Matcha Latte Rp 17,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li value="Lemon Tea">Terima kasih kak, Lemon Tea Rp 12,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li value="Lemonade Summer">Terima kasih kak, Lemonade Summer Rp 13,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li value="Ice Pomegranate">Terima kasih kak, Ice Pomegranate Rp 13,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li value="Mandarin Orange">Terima kasih kak, Mandarin Orange Rp 14,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li value="Apple Peach">Terima kasih kak, Apple Peach Rp 15,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li value="Red Jane">Terima kasih kak, Red Jane Rp 15,000, untuk pembayarannya pakai Cash atau QRIS?</li>
+                <li>Mohon maaf, minuman yang Anda pesan tidak tersedia.</li>
+            </condition>
+        </template>
+    </category>
+    
+
+    <category>
+        <pattern>SAYA INGIN BAYAR PAKAI *</pattern>
+        <template>
+            Pembayaran Anda menggunakan <star/> sedang diproses. Terima kasih atas pesanan Anda!
+        </template>
+    </category>
+</aiml>

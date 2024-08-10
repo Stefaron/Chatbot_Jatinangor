@@ -1,0 +1,45 @@
+MENU MAKANAN
+MENU MINUMAN
+SAYA INGIN PESAN Paket Ayam Spicy Jatinangor Medium
+SAYA INGIN PESAN Paket Ayam Spicy Jatinangor Large
+SAYA INGIN PESAN Paket Ayam Spicy Jatinangor Special Medium
+SAYA INGIN PESAN Paket Java Jatinangor 1
+SAYA INGIN PESAN Paket Chicken Strips + Scramble Egg
+SAYA INGIN PESAN Paket Java Jatinangor 2
+
+SAYA INGIN PESAN Makanan Ayam Spicy Jatinangor Medium
+SAYA INGIN PESAN Makanan Ayam Spicy Jatinangor Large
+SAYA INGIN PESAN Makanan Chicken Strips Spicy
+SAYA INGIN PESAN Makanan Great Burger Jatinangor
+SAYA INGIN PESAN Makanan Spicy Chicken Burger
+SAYA INGIN PESAN Makanan Hot BBQ / Cheese Sauce
+SAYA INGIN PESAN Makanan Scramble Egg
+SAYA INGIN PESAN Makanan Nasi
+SAYA INGIN PESAN Makanan French Fries Cajun
+SAYA INGIN PESAN Makanan Kailan Spicy Crispy
+SAYA INGIN PESAN Makanan Tofu Chicken Spicy Tenders
+SAYA INGIN PESAN Makanan Fries Chicken Spicy Tenders
+
+
+SAYA INGIN PESAN Minuman Es Kopi J-House Gula Aren
+SAYA INGIN PESAN Minuman Es Kopi J-House
+SAYA INGIN PESAN Minuman Es Kopi Suklat
+SAYA INGIN PESAN Minuman Es Kopi Karlina Latte
+SAYA INGIN PESAN Minuman J-House Creamy Mouthfeel
+SAYA INGIN PESAN Minuman Cappucino Hot/Ice
+SAYA INGIN PESAN Minuman Vietnam Drip
+SAYA INGIN PESAN Minuman Americano Hot/Ice
+SAYA INGIN PESAN Minuman Sugus Milk Cream
+SAYA INGIN PESAN Minuman Taro Latte
+SAYA INGIN PESAN Minuman Chocolate Daily
+SAYA INGIN PESAN Minuman Red Velvet
+SAYA INGIN PESAN Minuman Matcha Latte
+SAYA INGIN PESAN Minuman Lemon Tea
+SAYA INGIN PESAN Minuman Lemonade Summer
+SAYA INGIN PESAN Minuman Ice Pomegranate
+SAYA INGIN PESAN Minuman Mandarin Orange
+SAYA INGIN PESAN Minuman Apple Peach
+SAYA INGIN PESAN Minuman Red Jane
+
+SAYA INGIN BAYAR PAKAI QRIS
+SAYA INGIN BAYAR PAKAI CASH

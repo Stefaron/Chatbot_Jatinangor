@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="2.0" encoding="ISO-8859-1">
+    <category>
+        <pattern>MENU MAKANAN</pattern>
+        <template>
+            Berikut adalah menu makanan yang tersedia di Jatinangor House:
+            <br/>- Ayam Spicy Jatinangor Medium: Rp 15,000
+            <br/>- Ayam Spicy Jatinangor Large: Rp 19,000
+            <br/>- Chicken Strips Spicy: Rp 19,000
+            <br/>- Great Burger Jatinangor: Rp 26,000
+            <br/>- Spicy Chicken Burger: Rp 23,000
+            <br/><br/>Menu Ala Carte:
+            <br/>- Hot BBQ / Cheese Sauce: Rp 5,000
+            <br/>- Scramble Egg: Rp 7,000
+            <br/>- Nasi: Rp 7,000
+            <br/>- French Fries Cajun: Rp 14,000
+            <br/>- Kailan Spicy Crispy: Rp 15,000
+            <br/>- Tofu Chicken Spicy Tenders: Rp 16,000
+            <br/>- Fries Chicken Spicy Tenders: Rp 18,000
+        </template>
+    </category>
+    <category>
+        <pattern>.*MENU MAKANAN.*</pattern>
+        <template>
+            Berikut adalah menu makanan yang tersedia di Jatinangor House:
+            <br/>- Ayam Spicy Jatinangor Medium: Rp 15,000
+            <br/>- Ayam Spicy Jatinangor Large: Rp 19,000
+            <br/>- Chicken Strips Spicy: Rp 19,000
+            <br/>- Great Burger Jatinangor: Rp 26,000
+            <br/>- Spicy Chicken Burger: Rp 23,000
+            <br/><br/>Menu Ala Carte:
+            <br/>- Hot BBQ / Cheese Sauce: Rp 5,000
+            <br/>- Scramble Egg: Rp 7,000
+            <br/>- Nasi: Rp 7,000
+            <br/>- French Fries Cajun: Rp 14,000
+            <br/>- Kailan Spicy Crispy: Rp 15,000
+            <br/>- Tofu Chicken Spicy Tenders: Rp 16,000
+            <br/>- Fries Chicken Spicy Tenders: Rp 18,000
+        </template>
+    </category>
+    <category>
+        <pattern>MAKANAN</pattern>
+        <template>
+            Berikut adalah menu makanan yang tersedia di Jatinangor House:
+            <br/>- Ayam Spicy Jatinangor Medium: Rp 15,000
+            <br/>- Ayam Spicy Jatinangor Large: Rp 19,000
+            <br/>- Chicken Strips Spicy: Rp 19,000
+            <br/>- Great Burger Jatinangor: Rp 26,000
+            <br/>- Spicy Chicken Burger: Rp 23,000
+            <br/><br/>Menu Ala Carte:
+            <br/>- Hot BBQ / Cheese Sauce: Rp 5,000
+            <br/>- Scramble Egg: Rp 7,000
+            <br/>- Nasi: Rp 7,000
+            <br/>- French Fries Cajun: Rp 14,000
+            <br/>- Kailan Spicy Crispy: Rp 15,000
+            <br/>- Tofu Chicken Spicy Tenders: Rp 16,000
+            <br/>- Fries Chicken Spicy Tenders: Rp 18,000
+        </template>
+    </category>
+</aiml>

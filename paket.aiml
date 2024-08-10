@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="2.0" encoding="ISO-8859-1">
+<category>
+    <pattern>MENU PAKET</pattern>
+    <template>
+        Berikut adalah menu paket yang tersedia di Jatinangor House:
+        <br/>- Paket Ayam Spicy Jatinangor Medium: Rp 19,000
+        <br/>- Paket Ayam Spicy Jatinangor Large: Rp 23,000
+        <br/>- Paket Ayam Spicy Jatinangor Special Medium: Rp 22,000
+        <br/>- Paket Java Jatinangor 1: Rp 37,000
+        <br/>- Paket Chicken Strips + Scramble Egg: Rp 27,000
+        <br/>- Paket Java Jatinangor 2: Rp 28,000
+    </template>
+</category>
+</aiml>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="2.0" encoding="ISO-8859-1">
+    <category>
+        <pattern>MENU MINUMAN</pattern>
+        <template>
+            Berikut adalah menu minuman yang tersedia di Jatinangor House:
+            <br/>- Es Kopi J-House Gula Aren: Rp 18,000
+            <br/>- Es Kopi J-House: Rp 18,000
+            <br/>- Es Kopi Suklat: Rp 20,000
+            <br/>- Es Kopi Karlina Latte: Rp 20,000
+            <br/>- J-House Creamy Mouthfeel: Rp 20,000
+            <br/>- Cappucino Hot/Ice: Rp 20,000
+            <br/>- Vietnam Drip: Rp 16,000
+            <br/>- Americano Hot/Ice: Rp 15,000
+            <br/>- Sugus Milk Cream: Rp 15,000
+            <br/>- Taro Latte: Rp 16,000
+            <br/>- Chocolate Daily: Rp 16,000
+            <br/>- Red Velvet: Rp 16,000
+            <br/>- Matcha Latte: Rp 17,000
+            <br/>- Lemon Tea: Rp 12,000
+            <br/>- Lemonade Summer: Rp 13,000
+            <br/>- Ice Pomegranate: Rp 13,000
+            <br/>- Mandarin Orange: Rp 14,000
+            <br/>- Apple Peach: Rp 15,000
+            <br/>- Red Jane: Rp 15,000
+        </template>
+    </category>
+
+    <category>
+        <pattern>MINUMAN</pattern>
+        <template>
+            Berikut adalah menu minuman yang tersedia di Jatinangor House:
+            <br/>- Es Kopi J-House Gula Aren: Rp 18,000
+            <br/>- Es Kopi J-House: Rp 18,000
+            <br/>- Es Kopi Suklat: Rp 20,000
+            <br/>- Es Kopi Karlina Latte: Rp 20,000
+            <br/>- J-House Creamy Mouthfeel: Rp 20,000
+            <br/>- Cappucino Hot/Ice: Rp 20,000
+            <br/>- Vietnam Drip: Rp 16,000
+            <br/>- Americano Hot/Ice: Rp 15,000
+            <br/>- Sugus Milk Cream: Rp 15,000
+            <br/>- Taro Latte: Rp 16,000
+            <br/>- Chocolate Daily: Rp 16,000
+            <br/>- Red Velvet: Rp 16,000
+            <br/>- Matcha Latte: Rp 17,000
+            <br/>- Lemon Tea: Rp 12,000
+            <br/>- Lemonade Summer: Rp 13,000
+            <br/>- Ice Pomegranate: Rp 13,000
+            <br/>- Mandarin Orange: Rp 14,000
+            <br/>- Apple Peach: Rp 15,000
+            <br/>- Red Jane: Rp 15,000
+        </template>
+    </category>
+</aiml>

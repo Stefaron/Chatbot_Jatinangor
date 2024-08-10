@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="2.0" encoding="ISO-8859-1">
+    <category>
+        <pattern>HALO</pattern>
+        <template>Halo! Selamat datang di Restoran Jatinangor. Bagaimana saya bisa membantu Anda hari ini?</template>
+    </category>
+    <category>
+        <pattern>HI</pattern>
+        <template>Hai! Selamat datang di Restoran Jatinangor. Ada yang bisa saya bantu?</template>
+    </category>
+    <category>
+        <pattern>HAI</pattern>
+        <template>Hai! Selamat datang di Restoran Jatinangor. Ada yang bisa saya bantu?</template>
+    </category>
+    <category>
+        <pattern>SELAMAT PAGI</pattern>
+        <template>Selamat pagi! Selamat datang di Restoran Jatinangor. Ada yang bisa saya bantu?</template>
+    </category>
+    <category>
+        <pattern>SELAMAT SIANG</pattern>
+        <template>Selamat siang! Selamat datang di Restoran Jatinangor. Apa yang bisa saya bantu?</template>
+    </category>
+    <category>
+        <pattern>SELAMAT SORE</pattern>
+        <template>Selamat sore! Selamat datang di Restoran Jatinangor. Bagaimana saya bisa membantu Anda sore ini?</template>
+    </category>
+    <category>
+        <pattern>SELAMAT MALAM</pattern>
+        <template>Selamat malam! Selamat datang di Restoran Jatinangor. Bagaimana saya bisa membantu Anda malam ini?</template>
+    </category>
+</aiml>

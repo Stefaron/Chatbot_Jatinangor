@@ -1,0 +1,10 @@
+<?xml version = "1.0" encoding = "ISO-8859-1"?>
+<aiml version="2" encoding="ISO-8859-1">
+<!-- start.xml -->
+<category>
+    <pattern>AIML A</pattern>
+        <template>
+            <learn>chat_awal.aiml</learn>
+        </template>
+</category>
+</aiml>
